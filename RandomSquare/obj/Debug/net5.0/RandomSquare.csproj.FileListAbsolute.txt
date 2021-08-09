@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\RandomSquare.exe
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\RandomSquare.deps.json
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\RandomSquare.runtimeconfig.json
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\RandomSquare.runtimeconfig.dev.json
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\RandomSquare.dll
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\ref\RandomSquare.dll
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\bin\Debug\net5.0\RandomSquare.pdb
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.AssemblyInfo.cs
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.dll
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\ref\RandomSquare.dll
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.pdb
+C:\Users\honey\source\repos\RandomSquare\RandomSquare\obj\Debug\net5.0\RandomSquare.genruntimeconfig.cache
